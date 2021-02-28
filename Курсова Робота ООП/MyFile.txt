@@ -1,0 +1,12 @@
+Eats - Category 
+100 - Spend Money 
+16.02.2021 - Date 
+
+Drinks - Category 
+250 - Spend Money 
+25.02.2021 - Date 
+
+Other_things - Category 
+150 - Spend Money 
+28.02.2021 - Date 
+
